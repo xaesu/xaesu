@@ -1,9 +1,10 @@
   ### 🐳 하지수 (@xaesu)
-> 🎓 Interior Architecture <br> 👩‍🎨 3D Modeling & Design <br> 👩‍💻 Content Programmer
+> 🎓 Interior Architecture <br> 👩‍🎨 3D Modeling & Design <br> 👩‍💻 Unity Programmer
 
 <br>
 
   ### 🛠️ SKILL
+<!--
 ![Category-Language](https://img.shields.io/badge/🔤-E8E8E8?style=flat&logo)&nbsp;
 ![C](https://img.shields.io/badge/_C_-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Cpp](https://img.shields.io/badge/C_Plus_Plus-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -23,6 +24,16 @@
 ![Category-Tools](https://img.shields.io/badge/🔎-E8E8E8?style=flat&logo)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-333333?style=flat-square&logo=notion&logoColor=white) <br><br>
+-->
+
+![Category-Engine](https://img.shields.io/badge/🛠-E8E8E8?style=flat&logo)&nbsp;
+![Unity](https://img.shields.io/badge/Unity_Engine-ffffff?style=flat-square&logo=unity&logoColor=black)
+![C#](https://img.shields.io/badge/C_Sharp-512BD4?style=flat-square&logo=csharp&logoColor=white) <br>
+![Category-Graphics](https://img.shields.io/badge/🎨-E8E8E8?style=flat&logo)&nbsp;
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white) <br>
+![Category-Modeling](https://img.shields.io/badge/🏰-E8E8E8?style=flat&logo)&nbsp;
+![Sketch Up](https://img.shields.io/badge/Sketch_Up-005F9E?style=flat-square&logo=sketchup&logoColor=white) <br><br>
 
   ### 🩵 SOCIAL
 ![Velog](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white)
